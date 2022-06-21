@@ -1,2 +1,2 @@
-# Majnsviper_game
+# Majnsviper
 Game of minesweeper, in pygame
